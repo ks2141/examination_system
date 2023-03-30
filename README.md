@@ -1,7 +1,7 @@
 Examination System demo made with 
 
 Nodejs->Express
-Mongodb->Mongoose
+Mongodb->Mongoos
 
 
 chages into 
